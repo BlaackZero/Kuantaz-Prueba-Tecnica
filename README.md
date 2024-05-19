@@ -1,4 +1,4 @@
-# Prueba Tecnica Kuantas
+# Prueba Tecnica Kuantaz
 
 Instrucciones:
 - npm i
@@ -6,4 +6,4 @@ Instrucciones:
 
 # Generacion dinamica de Formularios utiliziando MUI
 
-El endpoint devuelve todo como disabled pero siguen generandose dinamicamente
+El Endpoint devuelve todo como disabled pero siguen generandose dinamicamente los diferentes tipos de inputs.
